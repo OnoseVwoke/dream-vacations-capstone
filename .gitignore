@@ -1,0 +1,23 @@
+# Environment files
+.env
+*.pem
+*.key
+
+# Dependencies
+node_modules/
+npm-debug.log*
+
+# Build outputs
+build/
+dist/
+
+# Terraform
+infra/.terraform/
+infra/*.tfstate
+infra/*.tfstate.backup
+infra/.terraform.lock.hcl
+infra/terraform.tfvars
+
+# OS
+.DS_Store
+Thumbs.db
