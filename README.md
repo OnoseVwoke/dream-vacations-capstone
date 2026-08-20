@@ -87,7 +87,7 @@ Backups are saved to `/var/backups/dream-vacations/` and logs to `/var/log/dream
 4. Run `docker compose up -d`
 5. Configure Nginx and SSL with Certbot
 
-Live URL: https://your-domain.com
+Live URL: https://34.197.253.100.nip.io
 
 ---
 
